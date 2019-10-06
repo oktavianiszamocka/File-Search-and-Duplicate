@@ -1,0 +1,12 @@
+D:\Documents\PJATK\4th\TPO\source\2.txt:
+Wydawnictwo PJATK powstaĹ‚o w odpowiedzi na potrzeby Ĺ›rodowiska akademickiego naszej Uczelni i jest Ĺ›ciĹ›le zwiÄ…zane z jej dynamicznym rozwojem.
+D:\Documents\PJATK\4th\TPO\source\new1.txt:
+Akademickie Biuro Karier pomaga studentom i absolwentom w znalezieniu odpowiedniego 
+dla nich miejsca na rynku pracy. Na zlecenie pracodawców Biuro pomaga w
+ rekrutacji i selekcji kandydatów na oferowane stanowiska, organizuje 
+ prezentacje firm na terenie Uczelni oraz udziela informacji o 
+ programach pracy wakacyjnej za granicą. Organizuje również warsztaty i 
+ szkolenia z zakresu kształtowania kariery, przygotowania dokumentów aplikacyjnych,
+ autoprezentacji oraz spotkania z doradcami zawodowymi.
+D:\Documents\PJATK\4th\TPO\source\newDir2\3.txt:
+DokĹ‚adne opisy a takĹĽe spisy treĹ›ci naszych publikacji dostÄ™pne sÄ… na stronie sklepu internetowego https://sklep.pja.edu.pl/
